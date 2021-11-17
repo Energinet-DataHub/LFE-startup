@@ -22,14 +22,14 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 	- [X] Schedule to present at an upcoming TAC meeting ( provide date ).
 	- [X] Submit presentation to the TAC ( provide link to presentation ).
 	- [X] Receive the affirmative majority vote of the TAC ( provide date ).
-	- [X] Receive the affirmative majority vote of the Governing Board ( provide date ).
+	- [_] Receive the affirmative majority vote of the Governing Board ( provide date ).
 - New Project Intake
 	- Establish TSC
 		- [ ] Location for TSC documents and meeting notes ( recommendation is ```tsc``` directory in main repo, and then ```meetings``` under the ```tsc``` directory )
 		- [ ] TSC members identified, added to [GOVERNANCE.md](../GOVERNANCE.md).
-		- [ ] First TSC meeting held ( [agenda](meetings/initial-meeting-agenda.md) )
-		- [ ] Elect TSC Chairperson
-		- [ ] TSC meeting cadence set and added to project calendar (https://lists.lfenergy.org/calendar)
+		- [X] First TSC meeting held ( [agenda](meetings/initial-meeting-agenda.md) )
+		- [X] Elect TSC Chairperson
+		- [X] TSC meeting cadence set and added to project calendar (https://lists.lfenergy.org/calendar)
 	- [ ] Code scan completed and any recommendations remedyed ( details at https://wiki.lfenergy.org/display/HOME/The+Linux+Foundation+License+Scanning+and+Analysis+Support+Program+for+LF+projects ).
 	- Infrastructure
 		- [ ] Source Control (Github, GitLab, something else ) and LFE Staff is an administrator.	
