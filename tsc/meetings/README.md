@@ -2,7 +2,7 @@
 
 # MoM TSC Kickoff 2021-11-15:
 Participants: From Energinet: Martin Lervad Lundø, Martin F. Hansen, Mogens Juul Sass-Petersen, Per lysemose Hansen, From LFE: Yarille Kilborn, John Mertic
-Following actions were identified:
+- Following actions were identified:
 -	Elect Chairperson: Energinet will return with name of the chairperson 16th of Nov. Responsible: Martin Hansen
 -	Project charter: Energinet will revisit the mission statement. Also a new name is expected to be found in the coming weeks. Responsible: Per Lysemose
 -	Onboarding checklist: Energinet to establish on github and update according for already completed activities. Responsible Martin Hansen and Per Lysemose
