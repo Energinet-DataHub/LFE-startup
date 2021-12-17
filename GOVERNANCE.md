@@ -44,6 +44,7 @@ the committers per the voting process below.
 
 Elected lead for the project is Martin F. Hansen who is the primary point of contact for the project and representative to the TAC upon becoming an Active stage project. Martin F. Hansen is also responsible for the overall project health and direction, coordination of activities, and working with other projects and committees as needed for the continuted growth of the project.
 
+Members of the TSC are: From Energinet: Martin F. Hansen,  Mogens Juul Sass-Petersen and Per lysemose Hansen
 # Release Process
 
 Project releases will occur on a scheduled basis as agreed to by the committers.
