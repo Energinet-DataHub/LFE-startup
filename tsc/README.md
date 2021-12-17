@@ -25,7 +25,7 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 	- [_] Receive the affirmative majority vote of the Governing Board ( provide date ).
 - New Project Intake
 	- Establish TSC
-		- [ ] Location for TSC documents and meeting notes ( recommendation is ```tsc``` directory in main repo, and then ```meetings``` under the ```tsc``` directory )
+		- [X] Location for TSC documents and meeting notes ( recommendation is ```tsc``` directory in main repo, and then ```meetings``` under the ```tsc``` directory )
 		- [ ] TSC members identified, added to [GOVERNANCE.md](../GOVERNANCE.md).
 		- [X] First TSC meeting held ( [agenda](meetings/initial-meeting-agenda.md) )
 		- [X] Elect TSC Chairperson
