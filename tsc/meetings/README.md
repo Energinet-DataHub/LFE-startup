@@ -10,4 +10,9 @@ Participants: From Energinet: Martin Lervad Lundø, Martin F. Hansen, Mogens Juu
 Additional notes: 
 -	John Mertic explained that a change from using the appache 2 license only can happen if all contributors represented in the TSC agrees. This answer addressed a concern from Martin Lundø. 
 
-
+# MoM TSC Kickoff 2021-12-16:
+Participants: From Energinet: Martin F. Hansen, Per lysemose Hansen, From LFE: John Mertic
+- Following actions were identified:
+- Change name from Green Energy Hub: John will ask their legal department if the names Bifrost or Heimdal can used as new name for the project
+- Webpage: John will see if a webpage can be established based on the LFE Webpage template that has been filled out by Energinet. Next step is to fill in content
+- Generel: The outstanding decision regarding a new name for the project is blocking further progress in terms of communication about the GEH. Expectation is to have this decided on the next TSC meetinng 13th of Jan. 2022 
