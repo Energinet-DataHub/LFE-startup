@@ -42,7 +42,7 @@ the committers per the voting process below.
 
 ## Lead
 
-The project committers will elect a lead ( and optionally a co-lead ) which will be the primary point of contact for the project and representative to the TAC upon becoming an Active stage project. The lead(s) will be responsible for the overall project health and direction, coordination of activities, and working with other projects and committees as needed for the continuted growth of the project.
+Elected lead for the project is Martin F. Hansen who is the primary point of contact for the project and representative to the TAC upon becoming an Active stage project. Martin F. Hansen is also responsible for the overall project health and direction, coordination of activities, and working with other projects and committees as needed for the continuted growth of the project.
 
 # Release Process
 
