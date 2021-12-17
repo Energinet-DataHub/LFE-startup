@@ -26,7 +26,7 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 - New Project Intake
 	- Establish TSC
 		- [X] Location for TSC documents and meeting notes ( recommendation is ```tsc``` directory in main repo, and then ```meetings``` under the ```tsc``` directory )
-		- [ ] TSC members identified, added to [GOVERNANCE.md](../GOVERNANCE.md).
+		- [X] TSC members identified, added to [GOVERNANCE.md](../GOVERNANCE.md).
 		- [X] First TSC meeting held ( [agenda](meetings/initial-meeting-agenda.md) )
 		- [X] Elect TSC Chairperson
 		- [X] TSC meeting cadence set and added to project calendar (https://lists.lfenergy.org/calendar)
