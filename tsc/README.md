@@ -48,7 +48,7 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 	- Project assets
 		- [ ] Domain name ( create [service desk request] to create/transfer )
 		- [ ] Social media accounts ( create [service desk request] to setup/transfer - if needed )
-		- [ ] Logo(s) ( create [service desk request] to create ); will be added to [artwork repo](https://artwork.lfenergy.org) in SVG and PNG format and color/black/white )
+		- [X] Logo(s) ( create [service desk request] to create ); will be added to [artwork repo](https://artwork.lfenergy.org) in SVG and PNG format and color/black/white )
 	- Outreach
 		- [ ] New project annoucement done ( create [service desk request] to trigger )
 		- [ ] Project added to LF Energy properties
