@@ -34,20 +34,20 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 	- Infrastructure
 		- [ ] Source Control (Github, GitLab, something else ) and LFE Staff is an administrator.	
 			- [ ] Developer Certificate of Origin past commit signoff done and DCO Probot enabled.
-		- [ ] Issue/feature tracker (JIRA, GitHub issues) and LFE Staff is an administrator.
+		- [X] Issue/feature tracker (JIRA, GitHub issues) and LFE Staff is an administrator. (All issues are in public repos)
 		- Collaboration tools 
 			- Mailing lists - one of ( refer to [guidelines](https://wiki.lfenergy.org/display/HOME/Project+Collaboration+Tools#ProjectCollaborationTools-Mailinglists): 
-				- [ ] Create new list(s) ( default is -discussion@ and -private@ - create [service desk request] to provision ) 
-				- [ ] Move to https://lists.lfenergy.org ( create [service desk request] to setup/transfer )
-			- [ ] Establish project calendar on https://lists.lfenergy.org ( refer to [guidelines] (https://wiki.lfenergy.org/display/HOME/Project+Collaboration+Tools#ProjectCollaborationTools-Calendars) )
+				- [X] Create new list(s) ( default is -discussion@ and -private@ - create [service desk request] to provision ) 
+				- [X] Move to https://lists.lfenergy.org ( create [service desk request] to setup/transfer )
+			- [X] Establish project calendar on https://lists.lfenergy.org ( refer to [guidelines] (https://wiki.lfenergy.org/display/HOME/Project+Collaboration+Tools#ProjectCollaborationTools-Calendars) )
 			- [X] Slack or IRC ( create [service desk request] to setup Slack project channel - refer to [guidelines]( https://wiki.lfenergy.org/display/HOME/Project+Collaboration+Tools#ProjectCollaborationTools-Slack) )
 		- [ ] Website ( Template from LFE filled-out. Awaiting LFE for creation of website )
 		- [ ] CI/build environment ( if needed )
 		- [ ] Add project to [LFX Insights](https://insights.lfx.linuxfoundation.org/) ( create [service desk request] to trigger )
 		- [ ] Add project to [LFX Security](https://security.lfx.linuxfoundation.org/) ( create [service desk request] to trigger )
 	- Project assets
-		- [ ] Domain name ( create [service desk request] to create/transfer )
-		- [ ] Social media accounts ( create [service desk request] to setup/transfer - if needed )
+		- [X] Domain name ( create [service desk request] to create/transfer )
+		- [X] Social media accounts ( create [service desk request] to setup/transfer - if needed. No accounts)
 		- [X] Logo(s) ( create [service desk request] to create ); will be added to [artwork repo](https://artwork.lfenergy.org) in SVG and PNG format and color/black/white )
 	- Outreach
 		- [ ] New project annoucement done ( create [service desk request] to trigger )
