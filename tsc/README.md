@@ -41,7 +41,7 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 				- [X] Move to https://lists.lfenergy.org ( create [service desk request] to setup/transfer )
 			- [X] Establish project calendar on https://lists.lfenergy.org ( refer to [guidelines] (https://wiki.lfenergy.org/display/HOME/Project+Collaboration+Tools#ProjectCollaborationTools-Calendars) )
 			- [X] Slack or IRC ( create [service desk request] to setup Slack project channel - refer to [guidelines]( https://wiki.lfenergy.org/display/HOME/Project+Collaboration+Tools#ProjectCollaborationTools-Slack) )
-		- [ ] Website ( Template from LFE filled-out. Awaiting LFE for creation of website )
+		- [X] Website ( Template from LFE filled-out. Awaiting LFE for creation of website )
 		- [ ] CI/build environment ( if needed )
 		- [ ] Add project to [LFX Insights](https://insights.lfx.linuxfoundation.org/) ( create [service desk request] to trigger )
 		- [ ] Add project to [LFX Security](https://security.lfx.linuxfoundation.org/) ( create [service desk request] to trigger )
