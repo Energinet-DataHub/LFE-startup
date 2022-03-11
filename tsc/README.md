@@ -17,7 +17,7 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 		- [ ] A [RELEASE](../RELEASE.md) file that provides documentation on the release methodology, cadence, criteria, etc.
 		- [_] A [GOVERNANCE](../GOVERNANCE.md) file that documents the project’s technical governance.
 		- [ ] A [SUPPORT](../SUPPORT.md) file to let users and developers know about ways to get help with your project.
-	- [ ] Complete and approve the [Technical Charter](CHARTER.md) and agree to transfer any relevant trademarks to The Linux Foundation or its affiliate, LF Projects, LLC, and to assist in filing for any relevant unregistered ones.
+	- [X] Complete and approve the [Technical Charter](CHARTER.md) and agree to transfer any relevant trademarks to The Linux Foundation or its affiliate, LF Projects, LLC, and to assist in filing for any relevant unregistered ones.
 	- [X] Submit a completed [Project Contribution Proposal](https://wiki.lfenergy.org/display/HOME/New+Project+Proposals+Process) to the TAC for consideration
 	- [X] Schedule to present at an upcoming TAC meeting ( provide date ).
 	- [X] Submit presentation to the TAC ( provide link to presentation ).
