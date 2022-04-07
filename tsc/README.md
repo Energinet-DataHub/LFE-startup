@@ -42,7 +42,7 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 			- [X] Slack or IRC ( create [service desk request] to setup Slack project channel - refer to [guidelines]( https://wiki.lfenergy.org/display/HOME/Project+Collaboration+Tools#ProjectCollaborationTools-Slack) )
 		- [X] Website ( Template from LFE filled-out. Awaiting LFE for creation of website )
 		- [ ] CI/build environment ( if needed )
-		- [ ] Add project to [LFX Insights](https://insights.lfx.linuxfoundation.org/) ( create [service desk request] to trigger )
+		- [X] Add project to [LFX Insights](https://insights.lfx.linuxfoundation.org/) ( create [service desk request] to trigger )
 		- [ ] Add project to [LFX Security](https://security.lfx.linuxfoundation.org/) ( create [service desk request] to trigger )
 	- Project assets
 		- [X] Domain name ( create [service desk request] to create/transfer )
@@ -50,9 +50,9 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 		- [X] Logo(s) ( create [service desk request] to create ); will be added to [artwork repo](https://artwork.lfenergy.org) in SVG and PNG format and color/black/white )
 	- Outreach
 		- [ ] New project annoucement done ( create [service desk request] to trigger )
-		- [ ] Project added to LF Energy properties
-			- [ ] Website ( https://lfenergy.org/projects )
-			- [ ] LF Energy landscape ( https://l.lfenergy.org )
+		- [X] Project added to LF Energy properties
+			- [X] Website ( https://lfenergy.org/projects )
+			- [X] LF Energy landscape ( https://l.lfenergy.org )
 - Early Adoption requirements ( see https://wiki.lfenergy.org/display/HOME/Technical+Project+Lifecycle#TechnicalProjectLifecycle-EarlyAdoption )
   - Demonstrate growth in the project’s community, including
 	- [ ] Growth in the number of commits to the project, number of project committers, and organizational diversity of contributions and committers.
